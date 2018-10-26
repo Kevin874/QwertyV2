@@ -1,1 +1,1 @@
-# https://blisssc.github.io/QwertyV2
+check wiki
